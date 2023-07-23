@@ -78,3 +78,7 @@ yarn ios
 
 * EXPO was NOT used for this project
 
+---
+### Sources
+[Youtube React Native Course](https://youtu.be/VozPNrt-LfE)
+
